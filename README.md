@@ -1,6 +1,6 @@
-# [Maker-Portfolio](https://kartik4042.github.io/maker-portfolio/)
+# [Maker-Portfolio](https://kartik4042.github.io/Maker-Portfolio/)
 
-**Greetings and welcome to my Maker Portfolio**
+**Greetings and welcome to my Maker Portfolio!**
 
 **About:**
 
